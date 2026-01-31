@@ -1,0 +1,9 @@
+[project]
+name = "automacao-youtube-robot"
+version = "0.1.0"
+description = "Automação YouTube com Robot Framework"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "robotframework-browser>=19.12.3",
+]

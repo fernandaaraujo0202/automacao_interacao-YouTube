@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+dist/
+build/
+
+# --- Robot Framework ---
+# Logs de execução (Output, Log, Report)
+output.xml
+log.html
+report.html
+
+# Pasta padrão de resultados 
+results/
+browser/
+logs/
+
+# --- Browser Library (Playwright) ---
+
+node_modules/
+.browser/
+
+# --- IDEs e SO ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
