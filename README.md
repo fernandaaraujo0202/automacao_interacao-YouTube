@@ -75,7 +75,7 @@ robot -d results -i [name_tag] main.robot
 
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=flat-square&logo=robotframework&logoColor=white)
 
-This project aims to practice web automation using the Browser and String libraries from Robot Framework.
+This project automates visits to YouTube channels, accesses videos, and plays short videos. Its objective is to practice web automation using the Browser and String libraries of the Robot Framework.
 
 ## Technologies
 
