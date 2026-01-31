@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-green?style=flat-square&logo=robotframework&logoColor=white)
 
 
-Este projeto tem como objetivo praticar automações web utilizando as bibliotecas Browser e String do Robot Framework. 
+Projeto que automatiza visitas a canais do youtube, acessa vídeos e reproduz shorts. Tem por objetivo praticar automações web utilizando as bibliotecas Browser e String do Robot Framework. 
 
 ## Tecnologias
 
